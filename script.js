@@ -1,3 +1,5 @@
+// MADE USING CREATE ELEMENT METHOD
+
 let main = document.querySelector("main");
 
 let inp = document.querySelector("input");
